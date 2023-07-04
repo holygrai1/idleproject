@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b198d48db62d942cead6fe72e1ae916e
+  m_SerializeEntries:
+  - m_GUID: 8ed947439415c0949944292198808e9c
+    m_Address: StringResConfig_zh_TW
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c47dec3f733ae24c9d5df8b1b6d487b
+    m_Address: StringResConfig_zh_CN
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67d6efc8f81cdb14d88b530f54a282c1
+    m_Address: SoundConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b216a85125bea8d4dba9fb2e3513644e
+    m_Address: StringResConfig_en
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9edb78ce8a4664f86b636d308c9512d1
+    m_Address: ServerConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90c384fdd66aa0543bb8f11db78251cc
+    m_Address: WaitWnd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61c62853d66bf4e489009f749caf27f5
+    m_Address: MsgBoxYesNoWnd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8fc2918fdeaf854ca5e17cc0482bc50
+    m_Address: MsgBoxYesWnd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c10a183663f6d943ad0caf199f7939f
+    m_Address: MsgBoxInputWnd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5de45a2b0ba3e445fb9980bf57afa652
+    m_Address: MainWnd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ef0b4bc162f54491b5c04a8d3134e8e
+    m_Address: KillDragonBattle1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b1249bdd6cef4c72929e37371f11153
+    m_Address: BattleConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44e311dd0d07245d196aead7c19f73cb
+    m_Address: MonsterConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7bc645da707c3478fa33ca4f284a1bd7
+    m_Address: SkillConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad4b4f4dc18184ba584d55e01aa96ba7
+    m_Address: Monster1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44503b1b6a8bf4398aafd6e967a63a8c
+    m_Address: Actor1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a0855823dcd348eca60dde3497364f1
+    m_Address: ActorConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc48bcb57c4454afcabf78558442e3c4
+    m_Address: ActorLevelConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c93414f31b7a24774a89aadfbe6cbca0
+    m_Address: KillDragonBattleWnd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a025a8b643c4641d5bf489403b2bb81a
+    m_Address: KillDragonBattleResultWnd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddb93ab186ac849a3a750086102c8f99
+    m_Address: LoginWnd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c3be5e6e32d5454c88d9a9b08a09e06
+    m_Address: SettingWnd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b502c899d1641481db045394e89bca33
+    m_Address: NormalAttackMagic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d5b978c4a9144a07b3814a07036c720
+    m_Address: HeartBallMagic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 967312e013ee341feb836f4bbe7a8dcd
+    m_Address: Monster1UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a9fae02c662a4cd88ffed39d1cbe8d9
+    m_Address: ActorIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e804448addafa4379b626e8a82ff53b4
+    m_Address: Monster2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a001b0ba63d34638bf5252649a32b69
+    m_Address: Actor2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 500a02fcbd38b4fc99387fb6d413d000
+    m_Address: Actor3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db5f7d95cc31d466a8b3b94eb3ea8d8a
+    m_Address: NormalAttackMagic2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1fb84fb65198b493290dbaedd62f4011
+    m_Address: NormalAttackMagic3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35d55e165c3a34404a05df6888e27bf8
+    m_Address: Monster2UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1be1395871acf45e28f3ff4a26904795
+    m_Address: MsgBubble
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d66c5a006d5c4688a97ce22b20e2329
+    m_Address: BattleActorInfoWnd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 989d84902391c4c29b1ca050a0d3c858
+    m_Address: PrizeBodyMagic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f91189d8563764c7aa1da4156d113ea8
+    m_Address: PrizeBallMagic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c17645cd06ff9451a81ec89abdb8a6a4
+    m_Address: PrizeHealMagic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66480320ab10040679158dda5dfe3794
+    m_Address: PrizeExplodeMagic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc08d1549373b4bf8b10af35ea4bee26
+    m_Address: HeartBallExplodeMagic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd0e190fcb2db4631b531d22581e7194
+    m_Address: HealMagic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a9aa5f1682b64d8799d68e403a0c7f6
+    m_Address: Actor4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 149943d2848774315bb92429137066e2
+    m_Address: Actor5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eca78f0c31ef94a9f88444a3d526d8c1
+    m_Address: Monster3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5415915949dc54b5995de6af31ea7474
+    m_Address: Monster3UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3922a73733de545e7ac52adce1f51065
+    m_Address: Monster4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce39e85d12f434491935011d52d0cd3c
+    m_Address: Monster4UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f9c74e5f228b4fbda3972c5bebb10e8
+    m_Address: Monster5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62bc33271b5824cbab50da3662da3b72
+    m_Address: Monster5UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 92ed0a65fb24c47cd9799249d6b612af, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 68585efa34fa54c85a037ba869a7ea3c, type: 2}
+    - {fileID: 11400000, guid: 706a3c631676f49cb8a5ac23e30429bb, type: 2}

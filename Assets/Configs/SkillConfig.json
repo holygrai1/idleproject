@@ -1,0 +1,156 @@
+{
+	"skills": {
+		"normalAttack": {
+			"id": "normalAttack",
+			"type": 0,
+			"magicAssetAddress": "NormalAttackMagic",
+			"damage": 10,
+			"speed": 2,
+			"normalAttack": {
+				"animationTime": 10,
+				"attackFrameDeldy": 0.1
+			}
+		},
+		"normalAttack2": {
+			"id": "normalAttack2",
+			"type": 0,
+			"magicAssetAddress": "NormalAttackMagic2",
+			"damage": 15,
+			"speed": 2,
+			"normalAttack": {
+				"animationTime": 10,
+				"attackFrameDeldy": 0.1
+			}
+		},
+		"normalAttack3": {
+			"id": "normalAttack3",
+			"type": 0,
+			"magicAssetAddress": "NormalAttackMagic3",
+			"damage": 20,
+			"speed": 2,
+			"normalAttack": {
+				"animationTime": 10,
+				"attackFrameDeldy": 0.1
+			}
+		},
+
+		"fastLightBall": {
+			"id": "fastLightBall",
+			"type": 1,
+			"magicAssetAddress": "NormalAttackMagic",
+			"damage": 4,
+			"speed": 3,
+			"fastLightBall": {
+				"duration": 3,
+				"animationTime": 0.3,
+				"attackFrameDeldy": 0.1
+			}
+		},
+		"fastLightBall2": {
+			"id": "fastLightBall2",
+			"type": 1,
+			"magicAssetAddress": "NormalAttackMagic2",
+			"damage": 5,
+			"speed": 3,
+			"fastLightBall": {
+				"duration": 3,
+				"animationTime": 0.3,
+				"attackFrameDeldy": 0.1
+			}
+		},
+		"fastLightBall3": {
+			"id": "fastLightBall3",
+			"type": 1,
+			"magicAssetAddress": "NormalAttackMagic3",
+			"damage": 6,
+			"speed": 3,
+			"fastLightBall": {
+				"duration": 3,
+				"animationTime": 0.3,
+				"attackFrameDeldy": 0.1
+			}
+		},
+
+		"heartBall": {
+			"id": "heartBall",
+			"type": 2,
+			"magicAssetAddress": "HeartBallMagic",
+			"damage": 6,
+			"speed": 1.5,
+			"heartBall": {
+				"duration": 3,
+				"animationTime": 0.3,
+				"attackFrameDeldy": 0.1,
+				"explodeMagicAssetAddress": "HeartBallExplodeMagic"
+			}
+		},
+		"heartBall2": {
+			"id": "heartBall",
+			"type": 2,
+			"magicAssetAddress": "HeartBallMagic",
+			"damage": 7,
+			"speed": 1.5,
+			"heartBall": {
+				"duration": 3,
+				"animationTime": 0.3,
+				"attackFrameDeldy": 0.1,
+				"explodeMagicAssetAddress": "HeartBallExplodeMagic"
+			}
+		},
+		"heartBall3": {
+			"id": "heartBall",
+			"type": 2,
+			"magicAssetAddress": "HeartBallMagic",
+			"damage": 9,
+			"speed": 1.5,
+			"heartBall": {
+				"duration": 3,
+				"animationTime": 0.3,
+				"attackFrameDeldy": 0.1,
+				"explodeMagicAssetAddress": "HeartBallExplodeMagic"
+			}
+		},
+
+		"heal": {
+			"id": "heal",
+			"type": 3,
+			"magicAssetAddress": "HealMagic",
+			"heal": {
+				"healPers": [500, 500, 300, 300, 300, 100, 50, 10]
+			}
+		},
+
+		"prizeBall": {
+			"id": "prizeBall",
+			"type": 4,
+			"magicAssetAddress": "PrizeBallMagic",
+			"speed": 3,
+			"prizeBall": {
+				"animationTime": 0.25,
+				"attackFrameDeldy": 0.1,
+				"pow": 2.0,
+				"hpPer": 200,
+				"nextCD": 1.0,
+				"bodyMagicFireAssetAddress": "PrizeBodyMagic",
+				"explodeMagicAssetAddress": "PrizeExplodeMagic",
+				"bodyMagicFireDuration": 5.0,
+				"duration": 8.0
+			}
+		},
+
+		"prizeHeal": {
+			"id": "prizeHeal",
+			"type": 5,
+			"magicAssetAddress": "PrizeHealMagic",
+			"speed": 5,
+			"prizeHeal": {
+				"animationTime": 0.25,
+				"attackFrameDeldy": 0.1,
+				"pow": 2.0,
+				"hpPer": 200,
+				"nextCD": 2.0,
+				"duration": 1.0
+			}
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"battles": {
+		"killDragon1": {
+			"battleID": "killDragon1",
+			"battleType": 0,
+			"assetAddress": "KillDragonBattle1",
+			"actorActiveExpByRank": [10, 5, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+			"actorNoactiveExp": 1,
+			"bossActiveExp": 5
+		}
+	}
+}

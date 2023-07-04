@@ -1,0 +1,603 @@
+{
+	"actorLevels": [
+		{
+			"exp": 0,
+			"actorID": "1",
+			"headIcon": "head1"
+		},
+
+		{
+			"exp": 40,
+			"actorID": "2",
+			"headIcon": "head1"
+		},
+
+		{
+			"exp": 120,
+			"actorID": "3",
+			"headIcon": "head2"
+		},
+
+		{
+			"exp": 240,
+			"actorID": "3",
+			"headIcon": "head2"
+		},
+
+		{
+			"exp": 400,
+			"actorID": "4",
+			"headIcon": "head2"
+		},
+
+		{
+			"exp": 600,
+			"actorID": "4",
+			"headIcon": "head3"
+		},
+
+		{
+			"exp": 840,
+			"actorID": "5",
+			"headIcon": "head3"
+		},
+
+		{
+			"exp": 1120,
+			"actorID": "5",
+			"headIcon": "head3"
+		},
+
+		{
+			"exp": 1440,
+			"actorID": "5",
+			"headIcon": "head4"
+		},
+
+		{
+			"exp": 1800,
+			"actorID": "5",
+			"headIcon": "head4"
+		},
+
+		{
+			"exp": 2200,
+			"actorID": "5",
+			"headIcon": "head4"
+		},
+
+		{
+			"exp": 2600,
+			"actorID": "5",
+			"headIcon": "head4"
+		},
+
+		{
+			"exp": 3000,
+			"actorID": "5",
+			"headIcon": "head4"
+		},
+
+		{
+			"exp": 3400,
+			"actorID": "5",
+			"headIcon": "head4"
+		},
+
+		{
+			"exp": 3800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 4200,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 4600,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 5000,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 5400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 5800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 6200,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 6600,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 7000,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 7400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 7800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 8300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 8900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 9600,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 10400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 11300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 12300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 13400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 14600,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 15900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 17300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 18800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 20400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 22100,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 23900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 25800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 27800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 29900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 32100,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 34400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 36800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 39300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 41900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 44600,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 47400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 50300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 53300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 56400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 59600,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 62900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 66300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 69800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 73400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 77100,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 80900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 84800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 88800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 92900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 97100,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 101400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 105800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 110300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 114900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 119600,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 124400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 129300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 134300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 139400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 144600,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 149900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 155300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 160800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 166400,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 172100,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 177900,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 183800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 189800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 196300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 203300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 210800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 218800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 227300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 236300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 245800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 255800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 266300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 277300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 288800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 300800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 313300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 326300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 339800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 353800,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 368300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 383300,
+			"actorID": "5",
+			"headIcon": "head5"
+		},
+
+		{
+			"exp": 398800,
+			"actorID": "5",
+			"headIcon": "head5"
+		}
+	]
+}

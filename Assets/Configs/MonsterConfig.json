@@ -1,0 +1,59 @@
+{
+	"monsters": {
+		"1": {
+			"id": "1",
+			"type": "0",
+			"assetAddress": "Monster1",
+			"normalAttackSkillID": "",
+			"commentSkillID": "",
+			"likeSkillID": "heal",
+			"prizeSkillID": "prizeHeal",
+			"scaleBig": "1",
+			"scaleSmall": "0.5"
+		},
+		"2": {
+			"id": "2",
+			"type": "0",
+			"assetAddress": "Monster2",
+			"normalAttackSkillID": "",
+			"commentSkillID": "",
+			"likeSkillID": "heal",
+			"prizeSkillID": "prizeHeal",
+			"scaleBig": "1",
+			"scaleSmall": "0.5"
+		},
+		"3": {
+			"id": "3",
+			"type": "0",
+			"assetAddress": "Monster3",
+			"normalAttackSkillID": "",
+			"commentSkillID": "",
+			"likeSkillID": "heal",
+			"prizeSkillID": "prizeHeal",
+			"scaleBig": "1",
+			"scaleSmall": "0.5"
+		},
+		"4": {
+			"id": "4",
+			"type": "0",
+			"assetAddress": "Monster4",
+			"normalAttackSkillID": "",
+			"commentSkillID": "",
+			"likeSkillID": "heal",
+			"prizeSkillID": "prizeHeal",
+			"scaleBig": "1",
+			"scaleSmall": "0.5"
+		},
+		"5": {
+			"id": "5",
+			"type": "0",
+			"assetAddress": "Monster5",
+			"normalAttackSkillID": "",
+			"commentSkillID": "",
+			"likeSkillID": "heal",
+			"prizeSkillID": "prizeHeal",
+			"scaleBig": "1",
+			"scaleSmall": "0.5"
+		}
+	}
+}

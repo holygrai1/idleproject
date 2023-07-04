@@ -1,0 +1,15 @@
+buxue.png
+size:332,81
+filter:Linear,Linear
+pma:true
+scale:1.6
+kq1
+bounds:2,17,272,62
+offsets:0,1,272,64
+szj
+bounds:276,25,54,54
+offsets:6,6,64,64
+tt2
+bounds:2,2,13,236
+offsets:8,8,29,254
+rotate:90

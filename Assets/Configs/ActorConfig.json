@@ -1,0 +1,59 @@
+{
+	"actors": {
+		"1": {
+			"id": "1",
+			"type": "0",
+			"assetAddress": "Actor1",
+			"normalAttackSkillID": "normalAttack",
+			"commentSkillID": "fastLightBall",
+			"likeSkillID": "heartBall",
+			"prizeSkillID": "prizeBall",
+			"scaleBig": "0.9",
+			"scaleSmall": "0.6"
+		},
+		"2": {
+			"id": "2",
+			"type": "0",
+			"assetAddress": "Actor2",
+			"normalAttackSkillID": "normalAttack2",
+			"commentSkillID": "fastLightBall2",
+			"likeSkillID": "heartBall2",
+			"prizeSkillID": "prizeBall",
+			"scaleBig": "0.9",
+			"scaleSmall": "0.6"
+		},
+		"3": {
+			"id": "3",
+			"type": "0",
+			"assetAddress": "Actor3",
+			"normalAttackSkillID": "normalAttack3",
+			"commentSkillID": "fastLightBall3",
+			"likeSkillID": "heartBall3",
+			"prizeSkillID": "prizeBall",
+			"scaleBig": "0.9",
+			"scaleSmall": "0.6"
+		},
+		"4": {
+			"id": "4",
+			"type": "0",
+			"assetAddress": "Actor4",
+			"normalAttackSkillID": "normalAttack3",
+			"commentSkillID": "fastLightBall3",
+			"likeSkillID": "heartBall3",
+			"prizeSkillID": "prizeBall",
+			"scaleBig": "0.9",
+			"scaleSmall": "0.6"
+		},
+		"5": {
+			"id": "4",
+			"type": "0",
+			"assetAddress": "Actor5",
+			"normalAttackSkillID": "normalAttack3",
+			"commentSkillID": "fastLightBall3",
+			"likeSkillID": "heartBall3",
+			"prizeSkillID": "prizeBall",
+			"scaleBig": "0.9",
+			"scaleSmall": "0.6"
+		}
+	}
+}
